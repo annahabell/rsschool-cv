@@ -1,5 +1,7 @@
 # Anna Drozhdzeniuk - Future Web Developer
 
+**CV #1: Markdown & Git Project**
+
 ## What knowledge in Web Development do I have:
 * Middle CSS knowledge
 * Middle HTML knowledge 
@@ -12,7 +14,6 @@ function multiply(a, b) {
   return a * b;
 }
 ```
-**CV #1: Markdown & Git Pro**
 
 **Link to project:**
 [GitHub](https://github.com/annahabell)

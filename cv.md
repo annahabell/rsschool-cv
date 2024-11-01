@@ -16,4 +16,4 @@ function multiply(a, b) {
 ```
 
 **Link to project:**
-[GitHub](https://github.com/annahabell)
+[GitHub](https://github.com/annahabell/rsschool-cv)
